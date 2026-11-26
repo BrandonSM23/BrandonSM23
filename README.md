@@ -26,4 +26,4 @@ An AI mock-interview coach (React + FastAPI) that scores what you say *and* how 
 
 ---
 
-<!-- ✍️ Add a contact line here, e.g. 📫 [LinkedIn](https://linkedin.com/in/...) · you@email.com -->
+LinkedIn: https://www.linkedin.com/in/brandon-mendez-598bb7311/
